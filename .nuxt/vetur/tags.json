@@ -1,0 +1,116 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "Webviewer": {
+    "description": "Auto imported from components/Webviewer.vue"
+  },
+  "AppointmentS": {
+    "description": "Auto imported from components/appointmentS.vue"
+  },
+  "CodeCountry": {
+    "description": "Auto imported from components/codeCountry.vue"
+  },
+  "DatePicker": {
+    "description": "Auto imported from components/date-picker.vue"
+  },
+  "HourPicker": {
+    "description": "Auto imported from components/hourPicker.vue"
+  },
+  "NewAppointment": {
+    "description": "Auto imported from components/newAppointment.vue"
+  },
+  "Note": {
+    "description": "Auto imported from components/note.vue"
+  },
+  "Today": {
+    "description": "Auto imported from components/today.vue"
+  },
+  "AccountsFormPerfil": {
+    "description": "Auto imported from components/accounts/form-perfil.vue"
+  },
+  "DataListAllergies": {
+    "description": "Auto imported from components/data-list-medicalrecord/list-allergies.vue"
+  },
+  "DataListFamilyhistory": {
+    "description": "Auto imported from components/data-list-medicalrecord/list-familyhistory.vue"
+  },
+  "DataListMedicine": {
+    "description": "Auto imported from components/data-list-medicalrecord/list-medicine.vue"
+  },
+  "DataListNonpathologic": {
+    "description": "Auto imported from components/data-list-medicalrecord/list-nonpathologic.vue"
+  },
+  "DataListPathologic": {
+    "description": "Auto imported from components/data-list-medicalrecord/list-pathologic.vue"
+  },
+  "DataListPreviousMedicine": {
+    "description": "Auto imported from components/data-list-medicalrecord/list-previousMedicine.vue"
+  },
+  "DataListVaccination": {
+    "description": "Auto imported from components/data-list-medicalrecord/list-vaccination.vue"
+  },
+  "DashboardAssistant": {
+    "description": "Auto imported from components/dashboard/DashboardAssistant.vue"
+  },
+  "DashboardCitas": {
+    "description": "Auto imported from components/dashboard/DashboardCitas.vue"
+  },
+  "DashboardMarketing": {
+    "description": "Auto imported from components/dashboard/DashboardMarketing.vue"
+  },
+  "DashboardCalendar": {
+    "description": "Auto imported from components/dashboard/calendar.vue"
+  },
+  "DashboardFormNewPatient": {
+    "description": "Auto imported from components/dashboard/formNewPatient.vue"
+  },
+  "DashboardNextConsultation": {
+    "description": "Auto imported from components/dashboard/next-consultation.vue"
+  },
+  "EditableFormsEditAllergies": {
+    "description": "Auto imported from components/editableForms/editAllergies.vue"
+  },
+  "EditableFormsEditFamilyHistory": {
+    "description": "Auto imported from components/editableForms/editFamilyHistory.vue"
+  },
+  "EditableFormsEditMedicine": {
+    "description": "Auto imported from components/editableForms/editMedicine.vue"
+  },
+  "EditableFormsEditNonPathologic": {
+    "description": "Auto imported from components/editableForms/editNonPathologic.vue"
+  },
+  "EditableFormsEditPathologic": {
+    "description": "Auto imported from components/editableForms/editPathologic.vue"
+  },
+  "LoginFormLogin": {
+    "description": "Auto imported from components/login/form-Login.vue"
+  },
+  "NewAllergies": {
+    "description": "Auto imported from components/newInfoForms/newAllergies.vue"
+  },
+  "NewFamilyHistory": {
+    "description": "Auto imported from components/newInfoForms/newFamilyHistory.vue"
+  },
+  "NewNonPathologic": {
+    "description": "Auto imported from components/newInfoForms/newNonPathologic.vue"
+  },
+  "NewPathologic": {
+    "description": "Auto imported from components/newInfoForms/newPathologic.vue"
+  },
+  "NewVaccination": {
+    "description": "Auto imported from components/newInfoForms/newVaccination.vue"
+  },
+  "TableList": {
+    "description": "Auto imported from components/table/table-list.vue"
+  },
+  "ScheduleChips": {
+    "description": "Auto imported from components/schedule/scheduleChips.vue"
+  }
+}

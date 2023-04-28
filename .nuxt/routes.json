@@ -1,0 +1,545 @@
+[
+  {
+    "name": "carrusel",
+    "path": "/carrusel",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/carrusel.vue",
+    "chunkName": "pages/carrusel",
+    "_name": "_69db00c4"
+  },
+  {
+    "name": "generarPDF",
+    "path": "/generarPDF",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/generarPDF.vue",
+    "chunkName": "pages/generarPDF",
+    "_name": "_39eb8f9f"
+  },
+  {
+    "name": "imagen",
+    "path": "/imagen",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/imagen.vue",
+    "chunkName": "pages/imagen",
+    "_name": "_30dfdeee"
+  },
+  {
+    "name": "loandig-page",
+    "path": "/loandig-page",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/loandig-page.vue",
+    "chunkName": "pages/loandig-page",
+    "_name": "_efb46eb6"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_50d19c84"
+  },
+  {
+    "name": "logout",
+    "path": "/logout",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/logout.vue",
+    "chunkName": "pages/logout",
+    "_name": "_68600e85"
+  },
+  {
+    "name": "patients",
+    "path": "/patients",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/patients.vue",
+    "chunkName": "pages/patients",
+    "children": [
+      {
+        "name": "patients-list",
+        "path": "list",
+        "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/patients/list.vue",
+        "chunkName": "pages/patients/list",
+        "_name": "_72989e54"
+      }
+    ],
+    "_name": "_74ac4049"
+  },
+  {
+    "name": "pruebaComponente",
+    "path": "/pruebaComponente",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/pruebaComponente.vue",
+    "chunkName": "pages/pruebaComponente",
+    "_name": "_5b8fa918"
+  },
+  {
+    "name": "account-settings-AccountSettingsAccount",
+    "path": "/account-settings/AccountSettingsAccount",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/account-settings/AccountSettingsAccount.vue",
+    "chunkName": "pages/account-settings/AccountSettingsAccount",
+    "_name": "_4809459e"
+  },
+  {
+    "name": "accounts-new",
+    "path": "/accounts/new",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/new.vue",
+    "chunkName": "pages/accounts/new",
+    "_name": "_04b7f79c"
+  },
+  {
+    "name": "auth-formLogin",
+    "path": "/auth/formLogin",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/auth/formLogin.vue",
+    "chunkName": "pages/auth/formLogin",
+    "_name": "_0172d959"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/auth/login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_0447b086"
+  },
+  {
+    "name": "auth-passwordForget",
+    "path": "/auth/passwordForget",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/auth/passwordForget.vue",
+    "chunkName": "pages/auth/passwordForget",
+    "_name": "_d9caef78"
+  },
+  {
+    "name": "calendario-calendario",
+    "path": "/calendario/calendario",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/calendario/calendario.vue",
+    "chunkName": "pages/calendario/calendario",
+    "_name": "_dc07df78"
+  },
+  {
+    "name": "calendario-dayView",
+    "path": "/calendario/dayView",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/calendario/dayView.vue",
+    "chunkName": "pages/calendario/dayView",
+    "_name": "_5a2d14b1"
+  },
+  {
+    "name": "calendario-month",
+    "path": "/calendario/month",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/calendario/month.vue",
+    "chunkName": "pages/calendario/month",
+    "_name": "_16283950"
+  },
+  {
+    "name": "calendario-week",
+    "path": "/calendario/week",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/calendario/week.vue",
+    "chunkName": "pages/calendario/week",
+    "_name": "_30a12d54"
+  },
+  {
+    "name": "settings-account",
+    "path": "/settings/account",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/settings/account.vue",
+    "chunkName": "pages/settings/account",
+    "_name": "_5415d5fc"
+  },
+  {
+    "name": "settings-delete",
+    "path": "/settings/delete",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/settings/delete.vue",
+    "chunkName": "pages/settings/delete",
+    "_name": "_389ca02c"
+  },
+  {
+    "name": "settings-menuSettings",
+    "path": "/settings/menuSettings",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/settings/menuSettings.vue",
+    "chunkName": "pages/settings/menuSettings",
+    "_name": "_43a1bae3"
+  },
+  {
+    "name": "settings-notifications",
+    "path": "/settings/notifications",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/settings/notifications.vue",
+    "chunkName": "pages/settings/notifications",
+    "_name": "_c523b412"
+  },
+  {
+    "name": "settings-settings",
+    "path": "/settings/settings",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/settings/settings.vue",
+    "chunkName": "pages/settings/settings",
+    "_name": "_10112464"
+  },
+  {
+    "name": "settings-theme",
+    "path": "/settings/theme",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/settings/theme.vue",
+    "chunkName": "pages/settings/theme",
+    "_name": "_8551d550"
+  },
+  {
+    "name": "accounts-edit-account",
+    "path": "/accounts/edit/account",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/account.vue",
+    "chunkName": "pages/accounts/edit/account",
+    "_name": "_307a4b06"
+  },
+  {
+    "name": "accounts-edit-accountMenu",
+    "path": "/accounts/edit/accountMenu",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/accountMenu.vue",
+    "chunkName": "pages/accounts/edit/accountMenu",
+    "_name": "_ea9bd3f6"
+  },
+  {
+    "name": "accounts-edit-general-info",
+    "path": "/accounts/edit/general-info",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/general-info.vue",
+    "chunkName": "pages/accounts/edit/general-info",
+    "_name": "_3820192c"
+  },
+  {
+    "name": "accounts-edit-medical-info",
+    "path": "/accounts/edit/medical-info",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/medical-info.vue",
+    "chunkName": "pages/accounts/edit/medical-info",
+    "_name": "_bd56a03e"
+  },
+  {
+    "name": "accounts-edit-medicalProfile-info",
+    "path": "/accounts/edit/medicalProfile-info",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/medicalProfile-info.vue",
+    "chunkName": "pages/accounts/edit/medicalProfile-info",
+    "_name": "_1813c7dc"
+  },
+  {
+    "name": "accounts-edit-planner-info",
+    "path": "/accounts/edit/planner-info",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/planner-info.vue",
+    "chunkName": "pages/accounts/edit/planner-info",
+    "_name": "_1fed81c0"
+  },
+  {
+    "name": "auth-register-register",
+    "path": "/auth/register/register",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/auth/register/register.vue",
+    "chunkName": "pages/auth/register/register",
+    "_name": "_4e62e3e3"
+  },
+  {
+    "name": "medical-record-cards-basic-info",
+    "path": "/medical-record/cards/basic-info",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/basic-info.vue",
+    "chunkName": "pages/medical-record/cards/basic-info",
+    "_name": "_986aea20"
+  },
+  {
+    "name": "medical-record-cards-consultation",
+    "path": "/medical-record/cards/consultation",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/consultation.vue",
+    "chunkName": "pages/medical-record/cards/consultation",
+    "_name": "_b7307c68"
+  },
+  {
+    "name": "medical-record-cards-medical-record",
+    "path": "/medical-record/cards/medical-record",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-record.vue",
+    "chunkName": "pages/medical-record/cards/medical-record",
+    "_name": "_50ae5590"
+  },
+  {
+    "name": "medical-record-cards-previous",
+    "path": "/medical-record/cards/previous",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/previous.vue",
+    "chunkName": "pages/medical-record/cards/previous",
+    "_name": "_1ca410ba"
+  },
+  {
+    "name": "accounts-edit-MedicalProfileComponents-idMed",
+    "path": "/accounts/edit/MedicalProfileComponents/idMed",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/MedicalProfileComponents/idMed.vue",
+    "chunkName": "pages/accounts/edit/MedicalProfileComponents/idMed",
+    "_name": "_7aa6ed47"
+  },
+  {
+    "name": "accounts-edit-MedicalProfileComponents-illnes",
+    "path": "/accounts/edit/MedicalProfileComponents/illnes",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/MedicalProfileComponents/illnes.vue",
+    "chunkName": "pages/accounts/edit/MedicalProfileComponents/illnes",
+    "_name": "_1bd19ca6"
+  },
+  {
+    "name": "accounts-edit-MedicalProfileComponents-menuMed",
+    "path": "/accounts/edit/MedicalProfileComponents/menuMed",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/MedicalProfileComponents/menuMed.vue",
+    "chunkName": "pages/accounts/edit/MedicalProfileComponents/menuMed",
+    "_name": "_2920adfa"
+  },
+  {
+    "name": "accounts-edit-MedicalProfileComponents-services",
+    "path": "/accounts/edit/MedicalProfileComponents/services",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/MedicalProfileComponents/services.vue",
+    "chunkName": "pages/accounts/edit/MedicalProfileComponents/services",
+    "_name": "_0e4e76b8"
+  },
+  {
+    "name": "accounts-edit-MedicalProfileViews-idMed",
+    "path": "/accounts/edit/MedicalProfileViews/idMed",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/MedicalProfileViews/idMed.vue",
+    "chunkName": "pages/accounts/edit/MedicalProfileViews/idMed",
+    "_name": "_463fe05e"
+  },
+  {
+    "name": "accounts-edit-MedicalProfileViews-illnes",
+    "path": "/accounts/edit/MedicalProfileViews/illnes",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/MedicalProfileViews/illnes.vue",
+    "chunkName": "pages/accounts/edit/MedicalProfileViews/illnes",
+    "_name": "_51fb3f3a"
+  },
+  {
+    "name": "accounts-edit-MedicalProfileViews-menuMed",
+    "path": "/accounts/edit/MedicalProfileViews/menuMed",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/MedicalProfileViews/menuMed.vue",
+    "chunkName": "pages/accounts/edit/MedicalProfileViews/menuMed",
+    "_name": "_b82b5de6"
+  },
+  {
+    "name": "accounts-edit-MedicalProfileViews-services",
+    "path": "/accounts/edit/MedicalProfileViews/services",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/MedicalProfileViews/services.vue",
+    "chunkName": "pages/accounts/edit/MedicalProfileViews/services",
+    "_name": "_6528cfee"
+  },
+  {
+    "name": "accounts-edit-PersonalProfile-changeEmail",
+    "path": "/accounts/edit/PersonalProfile/changeEmail",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/PersonalProfile/changeEmail.vue",
+    "chunkName": "pages/accounts/edit/PersonalProfile/changeEmail",
+    "_name": "_1e2879bf"
+  },
+  {
+    "name": "accounts-edit-PersonalProfile-menuPersonal",
+    "path": "/accounts/edit/PersonalProfile/menuPersonal",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/PersonalProfile/menuPersonal.vue",
+    "chunkName": "pages/accounts/edit/PersonalProfile/menuPersonal",
+    "_name": "_707f0048"
+  },
+  {
+    "name": "accounts-edit-PersonalProfile-subscription-form",
+    "path": "/accounts/edit/PersonalProfile/subscription-form",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/PersonalProfile/subscription-form.vue",
+    "chunkName": "pages/accounts/edit/PersonalProfile/subscription-form",
+    "_name": "_53c7c1b2"
+  },
+  {
+    "name": "accounts-edit-PersonalProfile-tax-data",
+    "path": "/accounts/edit/PersonalProfile/tax-data",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/PersonalProfile/tax-data.vue",
+    "chunkName": "pages/accounts/edit/PersonalProfile/tax-data",
+    "_name": "_177fa0ae"
+  },
+  {
+    "name": "accounts-edit-plannerViews-bussinesHour",
+    "path": "/accounts/edit/plannerViews/bussinesHour",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/plannerViews/bussinesHour.vue",
+    "chunkName": "pages/accounts/edit/plannerViews/bussinesHour",
+    "_name": "_76bcce16"
+  },
+  {
+    "name": "accounts-edit-plannerViews-editHour",
+    "path": "/accounts/edit/plannerViews/editHour",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/plannerViews/editHour.vue",
+    "chunkName": "pages/accounts/edit/plannerViews/editHour",
+    "_name": "_3de9cd1a"
+  },
+  {
+    "name": "accounts-edit-plannerViews-facilityCard",
+    "path": "/accounts/edit/plannerViews/facilityCard",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/plannerViews/facilityCard.vue",
+    "chunkName": "pages/accounts/edit/plannerViews/facilityCard",
+    "_name": "_e0ec4c42"
+  },
+  {
+    "name": "accounts-edit-plannerViews-menuPlanner",
+    "path": "/accounts/edit/plannerViews/menuPlanner",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/plannerViews/menuPlanner.vue",
+    "chunkName": "pages/accounts/edit/plannerViews/menuPlanner",
+    "_name": "_0538ccd2"
+  },
+  {
+    "name": "accounts-edit-plannerViews-newFacility",
+    "path": "/accounts/edit/plannerViews/newFacility",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/plannerViews/newFacility.vue",
+    "chunkName": "pages/accounts/edit/plannerViews/newFacility",
+    "_name": "_fe95daf2"
+  },
+  {
+    "name": "accounts-edit-plannerViews-schedule-info",
+    "path": "/accounts/edit/plannerViews/schedule-info",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/plannerViews/schedule-info.vue",
+    "chunkName": "pages/accounts/edit/plannerViews/schedule-info",
+    "_name": "_570c54c8"
+  },
+  {
+    "name": "auth-register-registerViews-patientView",
+    "path": "/auth/register/registerViews/patientView",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/auth/register/registerViews/patientView.vue",
+    "chunkName": "pages/auth/register/registerViews/patientView",
+    "_name": "_65897594"
+  },
+  {
+    "name": "auth-register-registerViews-registerPatient",
+    "path": "/auth/register/registerViews/registerPatient",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/auth/register/registerViews/registerPatient.vue",
+    "chunkName": "pages/auth/register/registerViews/registerPatient",
+    "_name": "_794406ce"
+  },
+  {
+    "name": "auth-register-registerViews-specialistRegister",
+    "path": "/auth/register/registerViews/specialistRegister",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/auth/register/registerViews/specialistRegister.vue",
+    "chunkName": "pages/auth/register/registerViews/specialistRegister",
+    "_name": "_67e14690"
+  },
+  {
+    "name": "auth-register-registerViews-SpecialistView",
+    "path": "/auth/register/registerViews/SpecialistView",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/auth/register/registerViews/SpecialistView.vue",
+    "chunkName": "pages/auth/register/registerViews/SpecialistView",
+    "_name": "_4c405a5a"
+  },
+  {
+    "name": "auth-register-registerViews-token",
+    "path": "/auth/register/registerViews/token",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/auth/register/registerViews/token.js",
+    "chunkName": "pages/auth/register/registerViews/token",
+    "_name": "_282a60ec"
+  },
+  {
+    "name": "medical-record-cards-medical-records-allergies",
+    "path": "/medical-record/cards/medical-records/allergies",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/allergies.vue",
+    "chunkName": "pages/medical-record/cards/medical-records/allergies",
+    "_name": "_133c4dbc"
+  },
+  {
+    "name": "medical-record-cards-medical-records-family-history",
+    "path": "/medical-record/cards/medical-records/family-history",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/family-history.vue",
+    "chunkName": "pages/medical-record/cards/medical-records/family-history",
+    "_name": "_1a4ed352"
+  },
+  {
+    "name": "medical-record-cards-medical-records-medicine",
+    "path": "/medical-record/cards/medical-records/medicine",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/medicine.vue",
+    "chunkName": "pages/medical-record/cards/medical-records/medicine",
+    "_name": "_4ea12634"
+  },
+  {
+    "name": "medical-record-cards-medical-records-non-pathologic-antecedents",
+    "path": "/medical-record/cards/medical-records/non-pathologic-antecedents",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/non-pathologic-antecedents.vue",
+    "chunkName": "pages/medical-record/cards/medical-records/non-pathologic-antecedents",
+    "_name": "_df91d8c2"
+  },
+  {
+    "name": "medical-record-cards-medical-records-others",
+    "path": "/medical-record/cards/medical-records/others",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/others.vue",
+    "chunkName": "pages/medical-record/cards/medical-records/others",
+    "children": [
+      {
+        "name": "medical-record-cards-medical-records-others-customized-questionnaire",
+        "path": "customized-questionnaire",
+        "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/others/customized-questionnaire.vue",
+        "chunkName": "pages/medical-record/cards/medical-records/others/customized-questionnaire",
+        "_name": "_7c3afc07"
+      },
+      {
+        "name": "medical-record-cards-medical-records-others-gynecological-history",
+        "path": "gynecological-history",
+        "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/others/gynecological-history.vue",
+        "chunkName": "pages/medical-record/cards/medical-records/others/gynecological-history",
+        "_name": "_35cfd34a"
+      },
+      {
+        "name": "medical-record-cards-medical-records-others-perinatal-history",
+        "path": "perinatal-history",
+        "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/others/perinatal-history.vue",
+        "chunkName": "pages/medical-record/cards/medical-records/others/perinatal-history",
+        "_name": "_0a0f53e7"
+      },
+      {
+        "name": "medical-record-cards-medical-records-others-postnatal-history",
+        "path": "postnatal-history",
+        "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/others/postnatal-history.vue",
+        "chunkName": "pages/medical-record/cards/medical-records/others/postnatal-history",
+        "_name": "_5650ccb3"
+      },
+      {
+        "name": "medical-record-cards-medical-records-others-psychiatric-history",
+        "path": "psychiatric-history",
+        "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/others/psychiatric-history.vue",
+        "chunkName": "pages/medical-record/cards/medical-records/others/psychiatric-history",
+        "_name": "_50e28e72"
+      }
+    ],
+    "_name": "_7b08f28f"
+  },
+  {
+    "name": "medical-record-cards-medical-records-pathologic-antecedents",
+    "path": "/medical-record/cards/medical-records/pathologic-antecedents",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/pathologic-antecedents.vue",
+    "chunkName": "pages/medical-record/cards/medical-records/pathologic-antecedents",
+    "_name": "_2db54e9f"
+  },
+  {
+    "name": "medical-record-cards-medical-records-previuos-medication",
+    "path": "/medical-record/cards/medical-records/previuos-medication",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/previuos-medication.vue",
+    "chunkName": "pages/medical-record/cards/medical-records/previuos-medication",
+    "_name": "_4796969d"
+  },
+  {
+    "name": "medical-record-cards-medical-records-vaccination",
+    "path": "/medical-record/cards/medical-records/vaccination",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/medical-records/vaccination.vue",
+    "chunkName": "pages/medical-record/cards/medical-records/vaccination",
+    "_name": "_612b94c9"
+  },
+  {
+    "name": "medical-record-cards-odontograma-odontograma",
+    "path": "/medical-record/cards/odontograma/odontograma",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/cards/odontograma/odontograma.vue",
+    "chunkName": "pages/medical-record/cards/odontograma/odontograma",
+    "_name": "_471d75b4"
+  },
+  {
+    "name": "accounts-edit-plannerViews-edit-editFacility",
+    "path": "/accounts/edit/plannerViews/edit/:editFacility?",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/plannerViews/edit/_editFacility.vue",
+    "chunkName": "pages/accounts/edit/plannerViews/edit/_editFacility",
+    "_name": "_80e8641a"
+  },
+  {
+    "name": "accounts-edit-plannerViews-watchFacility",
+    "path": "/accounts/edit/plannerViews/:watchFacility?",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/accounts/edit/plannerViews/_watchFacility.vue",
+    "chunkName": "pages/accounts/edit/plannerViews/_watchFacility",
+    "_name": "_fc8779c2"
+  },
+  {
+    "name": "medical-record-view-patient",
+    "path": "/medical-record/view/:patient?",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/view/_patient.vue",
+    "chunkName": "pages/medical-record/view/_patient",
+    "_name": "_7553dd29"
+  },
+  {
+    "name": "medical-record-medicalRecord",
+    "path": "/medical-record/:medicalRecord?",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/medical-record/_medicalRecord.vue",
+    "chunkName": "pages/medical-record/_medicalRecord",
+    "_name": "_c43cfe4c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/luisreyes/Desktop/Aryy-Nuxt-Medico-master/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0def8ea7"
+  }
+]

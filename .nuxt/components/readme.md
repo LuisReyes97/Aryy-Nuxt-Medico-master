@@ -1,0 +1,46 @@
+# Discovered Components
+
+This is an auto-generated list of components discovered by [nuxt/components](https://github.com/nuxt/components).
+
+You can directly use them in pages and other components without the need to import them.
+
+**Tip:** If a component is conditionally rendered with `v-if` and is big, it is better to use `Lazy` or `lazy-` prefix to lazy load.
+
+- `<NuxtLogo>` | `<nuxt-logo>` (components/NuxtLogo.vue)
+- `<Tutorial>` | `<tutorial>` (components/Tutorial.vue)
+- `<VuetifyLogo>` | `<vuetify-logo>` (components/VuetifyLogo.vue)
+- `<Webviewer>` | `<webviewer>` (components/Webviewer.vue)
+- `<AppointmentS>` | `<appointment-s>` (components/appointmentS.vue)
+- `<CodeCountry>` | `<code-country>` (components/codeCountry.vue)
+- `<DatePicker>` | `<date-picker>` (components/date-picker.vue)
+- `<HourPicker>` | `<hour-picker>` (components/hourPicker.vue)
+- `<NewAppointment>` | `<new-appointment>` (components/newAppointment.vue)
+- `<Note>` | `<note>` (components/note.vue)
+- `<Today>` | `<today>` (components/today.vue)
+- `<AccountsFormPerfil>` | `<accounts-form-perfil>` (components/accounts/form-perfil.vue)
+- `<DataListAllergies>` | `<data-list-allergies>` (components/data-list-medicalrecord/list-allergies.vue)
+- `<DataListFamilyhistory>` | `<data-list-familyhistory>` (components/data-list-medicalrecord/list-familyhistory.vue)
+- `<DataListMedicine>` | `<data-list-medicine>` (components/data-list-medicalrecord/list-medicine.vue)
+- `<DataListNonpathologic>` | `<data-list-nonpathologic>` (components/data-list-medicalrecord/list-nonpathologic.vue)
+- `<DataListPathologic>` | `<data-list-pathologic>` (components/data-list-medicalrecord/list-pathologic.vue)
+- `<DataListPreviousMedicine>` | `<data-list-previous-medicine>` (components/data-list-medicalrecord/list-previousMedicine.vue)
+- `<DataListVaccination>` | `<data-list-vaccination>` (components/data-list-medicalrecord/list-vaccination.vue)
+- `<DashboardAssistant>` | `<dashboard-assistant>` (components/dashboard/DashboardAssistant.vue)
+- `<DashboardCitas>` | `<dashboard-citas>` (components/dashboard/DashboardCitas.vue)
+- `<DashboardMarketing>` | `<dashboard-marketing>` (components/dashboard/DashboardMarketing.vue)
+- `<DashboardCalendar>` | `<dashboard-calendar>` (components/dashboard/calendar.vue)
+- `<DashboardFormNewPatient>` | `<dashboard-form-new-patient>` (components/dashboard/formNewPatient.vue)
+- `<DashboardNextConsultation>` | `<dashboard-next-consultation>` (components/dashboard/next-consultation.vue)
+- `<EditableFormsEditAllergies>` | `<editable-forms-edit-allergies>` (components/editableForms/editAllergies.vue)
+- `<EditableFormsEditFamilyHistory>` | `<editable-forms-edit-family-history>` (components/editableForms/editFamilyHistory.vue)
+- `<EditableFormsEditMedicine>` | `<editable-forms-edit-medicine>` (components/editableForms/editMedicine.vue)
+- `<EditableFormsEditNonPathologic>` | `<editable-forms-edit-non-pathologic>` (components/editableForms/editNonPathologic.vue)
+- `<EditableFormsEditPathologic>` | `<editable-forms-edit-pathologic>` (components/editableForms/editPathologic.vue)
+- `<LoginFormLogin>` | `<login-form-login>` (components/login/form-Login.vue)
+- `<NewAllergies>` | `<new-allergies>` (components/newInfoForms/newAllergies.vue)
+- `<NewFamilyHistory>` | `<new-family-history>` (components/newInfoForms/newFamilyHistory.vue)
+- `<NewNonPathologic>` | `<new-non-pathologic>` (components/newInfoForms/newNonPathologic.vue)
+- `<NewPathologic>` | `<new-pathologic>` (components/newInfoForms/newPathologic.vue)
+- `<NewVaccination>` | `<new-vaccination>` (components/newInfoForms/newVaccination.vue)
+- `<TableList>` | `<table-list>` (components/table/table-list.vue)
+- `<ScheduleChips>` | `<schedule-chips>` (components/schedule/scheduleChips.vue)
